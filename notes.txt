@@ -1,0 +1,18 @@
+->install typescript:
+sudo npm install -g typescript
+
+->tsc -v (to check version)
+
+->sudo npm uninstall -g typescript (to install typescript)
+
+->tsc app.ts (to compile ts file)
+
+->node app.js (to run js file i.e compiled ts file)
+
+Types in Typescript:
+->Primitive types
+string, number, boolean, null, undefined, symbol
+
+->Object types
+Object types are functions, arrays, classes etc.
+
